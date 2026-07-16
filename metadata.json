@@ -1,0 +1,8 @@
+{
+  "name": "Remix: (주)이안정보통신",
+  "description": "정보통신공사, CCTV 및 네트워크 구축, 정보통신설비 유지관리 및 성능점검, 설계 및 감리 전문 기업 (주)이안정보통신 공식 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
